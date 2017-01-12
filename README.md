@@ -1,2 +1,3 @@
 # testing
-scratch
+scratch.
+This is not a real project.
